@@ -118,7 +118,6 @@ int main()
 	cout<<setw(16)<<"Firstname"<<" "<<setw(17)<<"Lastname"<<setw(30)<<"Department"<<setw(20)<<"yr_adm"<<setw(8)<<"regno"<<setw(10)  <<"rollno"<<setw(12)<<"semester"<<endl;
 	hlist.display();
 	cout<<"FOR SECOND TYPE SORTED ACCORDING TO THEIR LAST NAME"<<endl;
-	//cout<<setw(15)<<"firstname"<<" "<<setw(15)<<"lastname"<<setw(40)<<"department"<<setw(10)<<"yr_adm"<<setw(10)<<"regno"<<setw(10)  <<"rollno"<<setw(10)<<"semester"<<endl;
 	cout<<setw(16)<<"Firstname"<<" "<<setw(17)<<"Lastname"<<setw(30)<<"Department"<<setw(20)<<"yr_adm"<<setw(8)<<"regno"<<setw(10)  <<"rollno"<<setw(12)<<"semester"<<endl;
 	hlist2.display();
 
