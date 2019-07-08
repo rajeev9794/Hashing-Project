@@ -1,6 +1,5 @@
 #include<iostream>
 #include"filesingly.h"
-//#include"Record.h"
 using namespace std;
 template<class T >
 class Hash
