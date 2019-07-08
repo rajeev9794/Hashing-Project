@@ -1,0 +1,3 @@
+First we parse the given csv file and extract the roll no,registration number and first name and last name.
+After that with the help of roll number calculated year of admission , semester and branch of student and result is passed to hash function
+to insert in hash table according to our hash function and displayed our output as a text file.
