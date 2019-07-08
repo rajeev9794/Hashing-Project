@@ -1,6 +1,5 @@
 #include<iostream>
 #include<iomanip>
-//#include"singlylink.h"
 using namespace std;
 class record
 {
@@ -34,7 +33,7 @@ class record
 			//cout<<"in destructor"<<endl;
 		}
 		friend ostream& operator<<(ostream &x,record &s)
-		{	//cout<<"in friend operator";
+		{	
 			cout<<setw(15)<<s.firstname<<" "<<setw(15)<<s.lastname<<setw(40)<<s.department<<setw(10)<<s.yr_adm<<setw(10)<<s.regno<<setw(10)  <<s.rollno<<setw(10)<<s.semester<<endl;
 return cout;
 }
