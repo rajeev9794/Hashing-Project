@@ -4,8 +4,8 @@ Input: CSV containing student records in the format
 Registration,roll_no,name,remarks
 
 Methodology:
-
 1) Parse the input file to form records.
+
 The components of the record will be:
 
 a. Name (First Name, Last Name- Omit middle names)
